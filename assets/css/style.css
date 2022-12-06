@@ -24,3 +24,11 @@ body {
         display: none;
     }
 }
+
+.card-text {
+    color: white;
+}
+
+.card-img-top {
+    aspect-ratio: 5/4;
+}
