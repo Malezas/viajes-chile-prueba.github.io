@@ -37,3 +37,12 @@ body {
     font-style: oblique;
     color: darkgray;
 }
+
+.pie-de-pagina {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+}
+
