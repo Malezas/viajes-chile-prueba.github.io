@@ -10,7 +10,7 @@ body {
     padding-right: 10px;
 }
 
-.quienes-somos {
+.texto {
     font-weight: bolder;
     color: darkgray;
 }
@@ -31,4 +31,9 @@ body {
 
 .card-img-top {
     aspect-ratio: 5/4;
+}
+
+.form-label {
+    font-style: oblique;
+    color: darkgray;
 }
