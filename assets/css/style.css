@@ -46,3 +46,8 @@ body {
 
 }
 
+.nav-black {
+    background-color: darkslategray;
+    opacity: 0.9;
+    color: white;
+}
