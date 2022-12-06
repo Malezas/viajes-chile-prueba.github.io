@@ -5,7 +5,22 @@ body {
     background-color: black;
 }
 
-#icono {
+#logo {
     width: 40px;
     padding-right: 10px;
+}
+
+.quienes-somos {
+    font-weight: bolder;
+    color: darkgray;
+}
+
+.icono {
+    color: black;
+}
+
+@media screen and (max-width:991px){
+    .sec-quienes {
+        display: none;
+    }
 }
